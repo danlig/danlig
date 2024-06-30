@@ -22,4 +22,4 @@ I am a Computer Science student with a passion for ethical hacking, machine lear
   - Visualized data distributions and model performance using Matplotlib.
 
 ### 📫 Get in Touch
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/daniele-liguori-66172a241/)
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/daniele-liguori-66172a241/)
