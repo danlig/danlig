@@ -11,7 +11,7 @@ I am a Computer Science student with a passion for ethical hacking, machine lear
 
 ### 📘 Projects
 
-#### Authorship Attribution of WhatsApp Messages
+#### WhosApp
 - **Description:** A machine learning project aimed at identifying the authorship of WhatsApp messages. This project leverages natural language processing techniques and machine learning algorithms to analyze the writing styles of different authors and accurately attribute messages to their respective authors.
 - **Tech Stack:** Python, Scikit-Learn, Pandas, NLTK, Matplotlib
 - **Repository:** [WhosApp](https://github.com/Bugged-Out-unisa/WhosApp/)
